@@ -1,4 +1,4 @@
-# Npm Kurulumları
+# Npm Kurulumu
 
 >npm install express
 
