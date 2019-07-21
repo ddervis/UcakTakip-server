@@ -1,11 +1,11 @@
 # Npm Kurulumları
 
-$ npm install express
+>npm install express
 
-$ npm install socket.io
+>npm install socket.io
 
-$ npm install axios
+>npm install axios
 
 # Uygulama Çalıştırma
 
-$ node server.js
+>node server.js
